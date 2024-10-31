@@ -10,5 +10,3 @@ Los horarios de tutorías de los profesores de la ETSIIT no siempre se adaptan a
 
 ## Documentación adicional
 [Historias de usuario](docs/user-stories.md)
-
-[Milestones??]
