@@ -6,4 +6,9 @@ Los horarios de tutorías de los profesores de la ETSIIT no siempre se adaptan a
 [Listado del profesorado de la ETSIIT](https://etsiit.ugr.es/docencia/profesorado)
 
 ## Configuración del repositorio
-[Configuración de github](docs/config.md)
+[Configuración de github](config/config.md)
+
+## Documentación adicional
+[Historias de usuario](docs/user-stories.md)
+
+[Milestones??]
